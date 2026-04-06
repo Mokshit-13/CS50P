@@ -34,6 +34,11 @@ The repository is organized by the topics covered in the course's weekly problem
 * `8_object_oriented_programming/`: Classes, properties, and class methods.
 * `project/`: My final capstone project.
 
+* <img width="935" height="1034" alt="Screenshot 2026-04-06 134203" src="https://github.com/user-attachments/assets/4bb2b85c-1db5-4f81-b7e5-a825f4cbe7a0" />
+* <img width="863" height="827" alt="Screenshot 2026-04-06 134212" src="https://github.com/user-attachments/assets/16b567ff-b858-4a4d-8804-6ec297c8d827" />
+
+
+
 ## 🚀 Final Project: Command-Line To-Do List Manager
 
 **Description:** A lightweight, interactive command-line application designed to help users organize their daily tasks. It allows for creating, viewing, updating, and deleting items on a to-do list directly from the terminal.
